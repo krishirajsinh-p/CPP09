@@ -6,7 +6,7 @@
 /*   By: kpuwar <kpuwar@student.42heilbronn.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/30 06:36:42 by kpuwar            #+#    #+#             */
-/*   Updated: 2023/12/30 12:22:16 by kpuwar           ###   ########.fr       */
+/*   Updated: 2023/12/30 12:26:38 by kpuwar           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,3 +36,5 @@ int main(int argc, char const *argv[])
 
 	return EXIT_SUCCESS;
 }
+//https://github.com/decidedlyso/merge-insertion-sort/blob/master/README.md
+//https://en.wikipedia.org/wiki/Merge-insertion_sort
